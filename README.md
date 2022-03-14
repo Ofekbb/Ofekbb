@@ -7,8 +7,8 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/ofekbb#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/ofekbb#gh-dark-mode-only)
+<a href="https://www.linkedin.com/in/ofekbb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ofekbb/" height="30" width="40" /></a>
+
 
 
 ### Languages and Tools:
