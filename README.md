@@ -1,6 +1,5 @@
 # Hi there, I'm Ofek Ben Baruch 👋
 
-## I'm looking for my next challenge as Frontend / Full stack developer positions.
 
 - 📫 You can reach me at: ofekbb@gmail.com
 
